@@ -1,9 +1,6 @@
 Obedient Cat
   > Download and open the text file to get the flag directly
-
-Mod 26
-  > Decrypt the text in the description using Rot 13
-
+  
 Python Wrangling
   > Use the python script to decode a string, 
   > Pass it as an argument  
